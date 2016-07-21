@@ -1,0 +1,46 @@
+body {
+    background-image: url("stars10.gif");
+	background-repeat: no-repeat;
+	background-position: center;
+    background-attachment: fixed;
+	webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+div{
+    text-align:center;
+	margin-top: 6px;
+}
+#textbox
+{
+	margin-top: 70px;
+}
+.button {
+  display: inline-block;
+  padding: 15px 25px;
+  font-size: 24px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: #4CAF50;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #000;
+  margin-bottom:6px;
+  
+}
+
+.button:hover {background-color: #3e8e41}
+
+.button:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+
+.button1 {
+	
+}
